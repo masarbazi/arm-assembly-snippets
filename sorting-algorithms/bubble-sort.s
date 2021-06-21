@@ -31,7 +31,6 @@ InitArray
 			ADD		R6, R6, #4;
 			SUBS	R9, #1;
 			BGT		InitArray
-			LDR		R7, =ARRAY
 			; end loading data
 			
 			SUB		LENGTH, LENGTH, #1 		; what ever the length is we are gonna iterate one less 
