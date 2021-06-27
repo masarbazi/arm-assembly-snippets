@@ -3,11 +3,11 @@ ARM Assembly Code Snippets - searching &amp; sorting
 
 ** All snippets have been tested on Keil uVision5 **
 
-# Searching algorithms
+### Searching algorithms
 * Linear Search
 * Binary Search
 
-# Sorting algorithms
+### Sorting algorithms
 * Bubble Sort
 * Insertion Sort
 * Selection Sort 
