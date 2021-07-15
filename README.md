@@ -15,7 +15,6 @@ ARM Assembly Code Snippets - searching &amp; sorting
 - Insertion Sort
 - Selection Sort
 - Merge Sort
--
 
 ### Math problems
 
